@@ -12,5 +12,9 @@ p {
 p:hover{
     /* transform: scaleX(2); */
     /* transform: scaleY(2); */
-    transform: scale(0.5);
+    /* transform: scale(0.5); */
+
+    /* transform: rotate(30deg); */
+
+    transform: skewY(20deg);
 }
